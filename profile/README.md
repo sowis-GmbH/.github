@@ -1,4 +1,4 @@
-# Willkommen bei der sowis GmbH 👋
+# Willkommen bei der sowis GmbH
 
 Wir entwickeln moderne Softwarelösungen für Unternehmen und öffentliche Auftraggeber.
 
