@@ -41,20 +41,6 @@ Unsere zentrale Wissensbasis beschreibt unter anderem
 
 ---
 
-# ⚙️ Technologie-Stack
-
-| Bereich | Technologien |
-|----------|--------------|
-| ERP | Microsoft Dynamics 365 Business Central |
-| Programmiersprachen | AL · TypeScript · PowerShell |
-| Cloud | Azure Functions |
-| DevOps | GitHub Actions |
-| CI/CD | AL-Go |
-| Dokumentation | Confluence |
-| Projektmanagement | GitHub Projects |
-
----
-
 # 📂 Unsere Repository-Struktur
 
 ```text
@@ -70,28 +56,3 @@ Kundenprojekte
 .github
 Organisation, Vorlagen und Automatisierungen
 ```
-
----
-
-# 💡 Unsere Entwicklungsphilosophie
-
-Wir sind überzeugt, dass erfolgreiche ERP-Projekte mehr benötigen als guten Code.
-
-Deshalb setzen wir auf:
-
-- Standardisierung statt individueller Einzellösungen
-- Automatisierung statt manueller Prozesse
-- Dokumentation als Bestandteil der Entwicklung
-- Continuous Integration & Continuous Delivery
-- Transparente Zusammenarbeit
-- Wiederverwendbare Architektur
-- Hohe Codequalität
-- Nachhaltige Wartbarkeit
-
----
-
-# 👥 Das ERP Stack Team
-
-Wir verbinden Softwareentwicklung, DevOps und Plattformdenken, um moderne Business-Central-Lösungen zu entwickeln.
-
-Unser Anspruch ist es, ERP-Entwicklung schneller, zuverlässiger und nachhaltiger zu machen.
