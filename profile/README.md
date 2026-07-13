@@ -5,5 +5,4 @@ Wir entwickeln moderne Softwarelösungen für Unternehmen und öffentliche Auftr
 ## Wichtige Links
 
 - Projektboard: https://github.com/orgs/sowis-GmbH/projects/1
-- Kundenrepositories: https://github.com/orgs/sowis-GmbH/repositories
 - Handbuch: https://sowis.atlassian.net/wiki/spaces/BCPlatformDevelopmentHandbook/overview
