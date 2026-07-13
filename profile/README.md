@@ -16,36 +16,15 @@ Statt jedes Projekt neu zu beginnen, setzen wir auf wiederverwendbare Plattforme
 
 ---
 
-# 🔗 Wichtige Links
+# Wichtige Links
 
-📋 GitHub Project Board
+GitHub Project Board
 
 https://github.com/orgs/sowis-GmbH/projects/1
 
-📖 BC Platform Development Handbook
+BC Platform Development Handbook
 
 https://sowis.atlassian.net/wiki/spaces/BCPlatformDevelopmentHandbook/overview
-
----
-
-## GitHub Automation
-
-Wir automatisieren unseren gesamten Entwicklungsprozess.
-
-- Issue-gesteuerte Entwicklung
-- GitHub Projects
-- CI/CD-Pipelines
-- Automatische Releases
-- Dependency Management
-- Build- und Deployment-Automatisierung
-
----
-
-## Business Central Lösungen
-
-Entwicklung moderner Erweiterungen für Microsoft Dynamics 365 Business Central.
-
-Dabei setzen wir konsequent auf eine gemeinsame Plattform und standardisierte Entwicklungsprozesse.
 
 ---
 
