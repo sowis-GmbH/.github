@@ -41,7 +41,7 @@ Unsere zentrale Wissensbasis beschreibt unter anderem
 
 ---
 
-# 📂 Unsere Repository-Struktur
+# Unsere Repository-Struktur
 
 ```text
 bc-platform-*
