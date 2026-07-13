@@ -38,6 +38,8 @@ Statt jedes Projekt neu zu beginnen, setzen wir auf wiederverwendbare Plattforme
 | `.github` | Organisationsvorlagen, Workflows und Automatisierungen |
 
 
+
+
 # sowisDOKU @ sowis GmbH
 
 tbd
