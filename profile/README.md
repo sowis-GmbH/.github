@@ -1,14 +1,16 @@
-# ERP Stack @ sowis GmbH
+# Business Central @ sowis GmbH
 
-> Die Engineering-Plattform für Microsoft Dynamics 365 Business Central.
+> **Die Engineering-Plattform für Microsoft Dynamics 365 Business Central.**
 >
-> Wir entwickeln wiederverwendbare Plattformen, Automatisierungen und Standards für moderne Business-Central-Projekte.
+> Wir entwickeln wiederverwendbare Plattformen, Automatisierungen und Entwicklungsstandards für moderne Business-Central-Projekte.
 
 ---
 
-# Willkommen beim ERP Stack
+## Willkommen
 
-Der **ERP Stack** ist der Bereich der sowis GmbH, der sich auf die Entwicklung moderner Lösungen für **Microsoft Dynamics 365 Business Central** spezialisiert.
+Willkommen im **Business-Central-Bereich** der **sowis GmbH**.
+
+Hier entwickeln wir moderne Lösungen für Microsoft Dynamics 365 Business Central und schaffen die technische Grundlage für standardisierte, wartbare und zukunftssichere ERP-Projekte.
 
 Unser Ziel ist es, den gesamten Entwicklungsprozess – von der ersten Idee bis zum Release – zu standardisieren, zu automatisieren und kontinuierlich weiterzuentwickeln.
 
@@ -16,43 +18,21 @@ Statt jedes Projekt neu zu beginnen, setzen wir auf wiederverwendbare Plattforme
 
 ---
 
-# Wichtige Links
+## Wichtige Links
 
-GitHub Project Board
+- **GitHub Project Board**  
+  https://github.com/orgs/sowis-GmbH/projects/1
 
-https://github.com/orgs/sowis-GmbH/projects/1
-
-BC Platform Development Handbook
-
-https://sowis.atlassian.net/wiki/spaces/BCPlatformDevelopmentHandbook/overview
+- **BC Platform Development Handbook**  
+  https://sowis.atlassian.net/wiki/spaces/BCPlatformDevelopmentHandbook/overview
 
 ---
 
-## Development Handbook
+## Repository-Struktur
 
-Unsere zentrale Wissensbasis beschreibt unter anderem
-
-- Entwicklungsstandards
-- Architekturprinzipien
-- Testprozesse
-- Dokumentation
-- Release-Prozesse
-- Best Practices
-
----
-
-# Unsere Repository-Struktur
-
-```text
-bc-platform-*
-Gemeinsame Plattform und Basisbibliotheken
-
-bc-product-*
-Produktlösungen
-
-bc-customer-*
-Kundenprojekte
-
-.github
-Organisation, Vorlagen und Automatisierungen
-```
+| Repository | Beschreibung |
+|------------|--------------|
+| `bc-platform-*` | Gemeinsame Plattform und Basisbibliotheken |
+| `bc-product-*` | Produktlösungen |
+| `bc-customer-*` | Kundenprojekte |
+| `.github` | Organisationsvorlagen, Workflows und Automatisierungen |
