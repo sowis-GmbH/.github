@@ -26,10 +26,6 @@ https://github.com/orgs/sowis-GmbH/projects/1
 
 https://sowis.atlassian.net/wiki/spaces/BCPlatformDevelopmentHandbook/overview
 
-🌐 Website
-
-https://www.sowis.de
-
 ---
 
 ## GitHub Automation
