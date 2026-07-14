@@ -6,18 +6,6 @@
 
 ---
 
-## Willkommen
-
-Willkommen im **Business-Central-Bereich** der **sowis GmbH**.
-
-Hier entwickeln wir moderne Lösungen für Microsoft Dynamics 365 Business Central und schaffen die technische Grundlage für standardisierte, wartbare und zukunftssichere ERP-Projekte.
-
-Unser Ziel ist es, den gesamten Entwicklungsprozess – von der ersten Idee bis zum Release – zu standardisieren, zu automatisieren und kontinuierlich weiterzuentwickeln.
-
-Statt jedes Projekt neu zu beginnen, setzen wir auf wiederverwendbare Plattformen, automatisierte Prozesse und klare Entwicklungsstandards.
-
----
-
 ## Wichtige Links
 
 - **GitHub Project Board**  
