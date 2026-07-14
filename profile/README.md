@@ -36,10 +36,3 @@ Statt jedes Projekt neu zu beginnen, setzen wir auf wiederverwendbare Plattforme
 | `bc-product-*` | Produktlösungen |
 | `bc-customer-*` | Kundenprojekte |
 | `.github` | Organisationsvorlagen, Workflows und Automatisierungen |
-
-
-
-
-# sowisDOKU @ sowis GmbH
-
-tbd
