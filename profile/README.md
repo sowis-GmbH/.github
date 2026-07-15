@@ -1,11 +1,5 @@
 # Business Central @ sowis GmbH
 
-> **Die Engineering-Plattform für Microsoft Dynamics 365 Business Central.**
->
-> Wir entwickeln wiederverwendbare Plattformen, Automatisierungen und Entwicklungsstandards für moderne Business-Central-Projekte.
-
----
-
 ## Wichtige Links
 
 - **GitHub Project Board**  
