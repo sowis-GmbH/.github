@@ -22,4 +22,11 @@
 ---
 
 # sowisDOKU @ sowis GmbH
-tbd
+sowisDOKU 3.0 ist die nächste Generation der Dokumentations- und Fachanwendung für Einrichtungen und Komplexträger der Sozialwirtschaft. Das Produkt unterstützt die Planung, Dokumentation und Steuerung fachlicher Prozesse und verbindet hohe Konfigurierbarkeit mit einer modernen, benutzerfreundlichen Oberfläche.
+
+## Repository-Struktur
+
+| Repository | Beschreibung |
+|------------|--------------|
+| `sowisDOKU-3.0` | Mono Repository für sowisDOKU 3.0 |
+
