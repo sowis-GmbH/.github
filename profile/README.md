@@ -18,3 +18,8 @@
 | `bc-product-*` | Produktlösungen |
 | `bc-customer-*` | Kundenprojekte |
 | `.github` | Organisationsvorlagen, Workflows und Automatisierungen |
+
+---
+
+# sowisDOKU @ sowis GmbH
+tbd
